@@ -1,0 +1,83 @@
+﻿Cooper Quintin
+ P.O. Box 190471  San Francisco, CA. 94119  
+Tel: (510) 827-5382 / E-mail: cooperq@cooperq.com
+Skills
+5 years of personal experience in linux system administration and PHP programming.  
+7 years of general programming experience.
+Linux system administration, multiple flavors (Redhat, CentOS, Debian, Ubuntu, Gentoo)
+MySQL Server setup and maintenance, including MySQL Cluster setup and maintenance
+Database administration and backup strategies
+Apache administration
+PHP Programming
+Shell Scripting (Bash, CSH)
+Can read Perl, Python and C/C++
+Nagios system monitoring
+MS Windows (95-Vista) installation and configuration
+Hardware installation and configuration
+Ruby Programming, Ruby on Rails Framework, Monit, Capistrano, Mongrel
+MVC architecture, Object Oriented Programming and Agile development techniques
+Facebook API
+Adobe Creative Suite and GIMP
+HTML, CSS, Javascript, Jquery
+Drupal installation, development and maintenance, Drupal API, Mediawiki, Dekiwiki, and WordPress
+Git, CVS and Subversion version control systems, Git and Subversion administration
+Xen and VMWare Server
+Operating System and Web application level security
+
+Contract Work										2007-Present
+
+Adbusters Magazine
+Debugging and feature implementation for the Adbusters website running on a LAMP stack. PHP programming and lite system administration on CentOS 5.  Implemented version control using GIT and implemented 3 tier system for development, testing and production environments.  Custom module development.
+Fratsor.com
+Created social networking website for members of fraternal organizations.  Used Drupal framework to build the site.  Drupal module programming and theme design and managed hosting for the site.
+Hollywood Can Suck It
+Created Blog, Forum and E-Commerce website using the Drupal Framework.  Custom module and theme development.
+WikiAudio
+Built wiki website for customer using DekiWiki software and Drupal for a related social network. Customer later changed to a MediaWiki implementation due to stability issues with DekiWiki
+Greenpeace
+Debugged and added features to Greenpeace's custom CRM software
+BleacherReport.com
+Wrote custom software and maintained existing software using Ruby On Rails, PHP and the Facebook API Maintained Security and Usability on 5 servers for all employees of the company. Implemented version control with subversion and Capistrano. Set up Nagios monitoring.  Optimized existing database queries.
+
+Page 1/2
+Cooper Quintin
+ P.O. Box 190471  San Francisco, CA. 94119  
+Tel: (510) 827-5382 / E-mail: cooperq@cooperq.com
+
+Contract Work (cont.)
+
+Jaxtr.com
+Set up working MySQL cluster and Nagios system on an 8 node network. For a VOIP services company.  Performed general maintenance on the servers as well as Bash scripting and security auditing.  Also, wrote custom plugins for Nagios.
+
+Work Experience
+
+Host For Web							System Administrator/Level 3 Tech Support
+2006-2007
+Responsible for the observation and maintenance of over 100 Linux servers serving over 3000 clients.  Duties included: technical support, fixing servers, writing scripts  to solve problems, configuring servers and auditing system security.
+
+Phoenix IT							Tech Support
+2005-2006
+Custom, in-home, tech support for windows users.  Removing viruses, spyware.  Installing software, hardware.  Fine tuning computers to run faster.  Education of users on computer techniques and methods.
+
+Volunteer Experience
+
+Education and Writing
+2003-Present
+I have been working with a loose group of other individuals for 5 years now, educating and training local activists in the responsible use of technology.  I have been teaching things such as, encryption and anonymity techniques to basic computer use.  During this time I have also written a number of articles for the blog and associated magazine of this collective.  I have additionally set up and maintained all associated services of the collective (LAMP Server, mail server, mailman, IRC, Jabber).  And worked on custom software to aid activists with them.  Also, I have programmed a number of custom CMS's for this group.
+
+Food Not Bombs
+2006-Present
+Food not Bombs cooks and serves free food to homeless people or anyone else who wants it.  I have been cooking and serving with them off and on for a number of years now.
+
+References
+Furnished upon request.
+
+
+
+
+
+
+
+
+
+Page 2/2
