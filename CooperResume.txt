@@ -1,83 +1,96 @@
-﻿Cooper Quintin
- P.O. Box 190471  San Francisco, CA. 94119  
-Tel: (510) 827-5382 / E-mail: cooperq@cooperq.com
-Skills
-5 years of personal experience in linux system administration and PHP programming.  
-7 years of general programming experience.
-Linux system administration, multiple flavors (Redhat, CentOS, Debian, Ubuntu, Gentoo)
-MySQL Server setup and maintenance, including MySQL Cluster setup and maintenance
-Database administration and backup strategies
-Apache administration
-PHP Programming
-Shell Scripting (Bash, CSH)
-Can read Perl, Python and C/C++
-Nagios system monitoring
-MS Windows (95-Vista) installation and configuration
-Hardware installation and configuration
-Ruby Programming, Ruby on Rails Framework, Monit, Capistrano, Mongrel
-MVC architecture, Object Oriented Programming and Agile development techniques
-Facebook API
-Adobe Creative Suite and GIMP
-HTML, CSS, Javascript, Jquery
-Drupal installation, development and maintenance, Drupal API, Mediawiki, Dekiwiki, and WordPress
-Git, CVS and Subversion version control systems, Git and Subversion administration
-Xen and VMWare Server
-Operating System and Web application level security
+﻿<h1>﻿Cooper Quintin</h1>
 
-Contract Work										2007-Present
+<p>Tel: (510) 827-5382 / E-mail: cooperq@cooperq.com
+<a href="https://github.com/cooperq">https://github.com/cooperq</a></p>
 
-Adbusters Magazine
-Debugging and feature implementation for the Adbusters website running on a LAMP stack. PHP programming and lite system administration on CentOS 5.  Implemented version control using GIT and implemented 3 tier system for development, testing and production environments.  Custom module development.
-Fratsor.com
-Created social networking website for members of fraternal organizations.  Used Drupal framework to build the site.  Drupal module programming and theme design and managed hosting for the site.
-Hollywood Can Suck It
-Created Blog, Forum and E-Commerce website using the Drupal Framework.  Custom module and theme development.
-WikiAudio
-Built wiki website for customer using DekiWiki software and Drupal for a related social network. Customer later changed to a MediaWiki implementation due to stability issues with DekiWiki
-Greenpeace
-Debugged and added features to Greenpeace's custom CRM software
-BleacherReport.com
-Wrote custom software and maintained existing software using Ruby On Rails, PHP and the Facebook API Maintained Security and Usability on 5 servers for all employees of the company. Implemented version control with subversion and Capistrano. Set up Nagios monitoring.  Optimized existing database queries.
+<h2>Skills</h2>
 
-Page 1/2
-Cooper Quintin
- P.O. Box 190471  San Francisco, CA. 94119  
-Tel: (510) 827-5382 / E-mail: cooperq@cooperq.com
+<ul>
+<li>Fluent and extremely comfortable with Python, Ruby, Bash, Javascript (Client and Node.js) and PHP</li>
+<li>Experienced advocate of software engineering best practices, E.G.: agile, test driven development,
+MVC, Object Orientation Patterns</li>
+<li>7 years experience with system administration tasks specifically related to LAMP stack systems. 
+Very comfortable with Linux, Apache and Mysql tuning and administration.</li>
+<li>Security and Anonymity best practices </li>
+<li>Penetration testing and security auditing</li>
+<li>Can read Perl, C/C++ and Java</li>
+<li>Nagios system monitoring</li>
+<li>Frameworks: Ruby on Rails, Sinatra, Backbone, Express.JS, Padrino, Django</li>
+</ul>
 
-Contract Work (cont.)
+<h2>Current Position</h2>
 
-Jaxtr.com
-Set up working MySQL cluster and Nagios system on an 8 node network. For a VOIP services company.  Performed general maintenance on the servers as well as Bash scripting and security auditing.  Also, wrote custom plugins for Nagios.
+<h3>Radical Designs     Director of Technology / Co-Owner    2009 – Current</h3>
 
-Work Experience
+<p>Responsible for leading a team of up to 5 other programmers, making major technology
+  decisions for the company, designing, estimating, architecting and maintaining 
+  small and large software projects.  Responsible for overseeing all software projects 
+  from start to finish and assuring that best practices are used to write quality 
+  software and assure team and customer satisfaction.  </p>
 
-Host For Web							System Administrator/Level 3 Tech Support
-2006-2007
-Responsible for the observation and maintenance of over 100 Linux servers serving over 3000 clients.  Duties included: technical support, fixing servers, writing scripts  to solve problems, configuring servers and auditing system security.
+<h2>Open Source and Other Projects</h2>
 
-Phoenix IT							Tech Support
-2005-2006
-Custom, in-home, tech support for windows users.  Removing viruses, spyware.  Installing software, hardware.  Fine tuning computers to run faster.  Education of users on computer techniques and methods.
+<h3>Ethersheet      https://ethersheet.org</h3>
 
-Volunteer Experience
+<p>Designed and built an open source collaborative online collaborative spreadsheet</p>
 
-Education and Writing
-2003-Present
-I have been working with a loose group of other individuals for 5 years now, educating and training local activists in the responsible use of technology.  I have been teaching things such as, encryption and anonymity techniques to basic computer use.  During this time I have also written a number of articles for the blog and associated magazine of this collective.  I have additionally set up and maintained all associated services of the collective (LAMP Server, mail server, mailman, IRC, Jabber).  And worked on custom software to aid activists with them.  Also, I have programmed a number of custom CMS's for this group.
+<h3>REvent          http://revent.radicaldesigns.org/</h3>
 
-Food Not Bombs
-2006-Present
-Food not Bombs cooks and serves free food to homeless people or anyone else who wants it.  I have been cooking and serving with them off and on for a number of years now.
+<p>Contributed to the development of REvent, an open source tool to facilitate 
+  distributed national days of action for organizers.  Written in Ruby and Javascript.</p>
 
-References
-Furnished upon request.
+<h3>Hackmeet        https://hackmeet.org</h3>
 
+<p>Co-Organizer of hackmeet.  The goal of hackmeet is to bring together activists and 
+  techies/hackers to  facilitate a discussion about the intersection of activism 
+  and technology.  Additionally hackmeet organizes regular security trainings 
+  around the bay area.</p>
 
+<h2>Talks</h2>
 
+<p>### Your Cell Phone is Covered In Spiders: Pragmatic Mobile Security 
+    HOPE Number Nine, New York, NY, 2012
+  ### Test Driven Development For Beginners,
+    Dev Summit, Oakland CA, 2012
+  ### Encrypt All The Things! A Primer on Full Disk Encryption
+    Cryptoparty, Oakland CA, 2012
+  ### Lockpicking 
+    Hackmeet 2012, San Francisco, CA</p>
 
+<h2>Awards</h2>
 
+<p>Information Security Coalliton  - 2013 Technology Grants Round 2 Winner</p>
 
+<h2>Contract Work                                        2007-2009</h2>
 
+<h3>Adbusters Magazine</h3>
 
+<p>Debugging and feature implementation for the Adbusters website running on a LAMP stack. PHP programming and lite system administration on CentOS 5.  Implemented version control using GIT and implemented 3 tier system for development, testing and production environments.  Custom module development.</p>
 
-Page 2/2
+<h3>Greenpeace</h3>
+
+<p>Debugged and added features to Greenpeace's custom CRM software</p>
+
+<h3>BleacherReport.com</h3>
+
+<p>Wrote custom software and maintained existing software using Ruby On Rails, PHP and the Facebook API Maintained Security and Usability on 5 servers for all employees of the company. Implemented version control with subversion and Capistrano. Set up Nagios monitoring.  Optimized existing database queries.</p>
+
+<h3>Jaxtr.com</h3>
+
+<p>Set up  MySQL cluster and Nagios system on an 8 node network for a VOIP services company.  Performed general maintenance on the servers as well as Bash scripting and security auditing.  Also, wrote custom plugins for Nagios.</p>
+
+<h2>Past Positions</h2>
+
+<h3>Host For Web        Level 3 Tech Support</h3>
+
+<p>2006-2007
+Front line tech support of over 100 Linux servers serving over 3000 clients.   Duties included: technical support, fixing servers, writing scripts  to solve problems, configuring servers and auditing system security.</p>
+
+<h3>Phoenix IT      Tech Support</h3>
+
+<p>2005-2006
+In-home, tech support for windows users.  Removing viruses, spyware.  Installing software, hardware.  Fine tuning computers to run faster.  Education of users on computer security and maintainance techniques and methods.</p>
+
+<h2>References</h2>
+
+<p>Furnished upon request.</p>
